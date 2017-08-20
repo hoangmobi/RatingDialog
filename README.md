@@ -1,8 +1,9 @@
 # RatingDialog
 Create simple rating dialog for application
 
+
+
  RatingDialog mRatingDialog = new RatingDialog(this);
- 
  mRatingDialog.setRatingDialogListener(new RatingDialog.RatingDialogInterFace() {
             @Override
             public void onDismiss() {
