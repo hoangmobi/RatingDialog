@@ -2,7 +2,7 @@
 Create simple rating dialog for application
 
 
-
+```
  RatingDialog mRatingDialog = new RatingDialog(this);
  mRatingDialog.setRatingDialogListener(new RatingDialog.RatingDialogInterFace() {
             @Override
@@ -20,7 +20,7 @@ Create simple rating dialog for application
                 Log.v("RATELISTERNER","onRatingChanged "+rating);
             }
         }); 
-
+```
 
 
 
