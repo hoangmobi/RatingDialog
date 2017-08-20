@@ -25,6 +25,6 @@ Create simple rating dialog for application
 
 
 Call  mRatingDialog.showDialog(); in onBackPress to show dialog<br />
-text Call  mRatingDialog.setEnable(boolean) to Disable/Emable show this next time<br />
+Call  mRatingDialog.setEnable(boolean) to Disable/Emable show this next time<br />
 Call mRatingDialog.setDefaultRating(int rate) to set default rate<br />
 Call mRatingDialog.closeDialog() to dismiss dialog<br />
